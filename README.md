@@ -1,17 +1,37 @@
-# Nova — Responsive Website Starter
+# Khublal Agro Chemical Pvt. Ltd.
 
-A lightweight, responsive landing page built with plain HTML, CSS, and JavaScript.
-
-## Preview locally
-Open `index.html` in your browser. No build step or package installation is required.
+Hindi-first responsive agriculture business website built with plain HTML, CSS, and JavaScript.
 
 ## Files
-- `index.html` — page structure and content
-- `styles.css` — responsive styling and motion
-- `script.js` — mobile navigation and contact form validation
+- `index.html` — Hindi website content, product information, FAQ, and enquiry form
+- `styles.css` — responsive layout and visual styling
+- `script.js` — mobile navigation, current year, and enquiry text-file download
 
-## Customize
-Replace the Nova name, copy, colors, and `hello@example.com` address with your own details. The contact form currently validates in the browser only; connect a trusted form backend before using it to receive messages.
+## Preview
+Open `index.html` in a browser. No build step or package installation is required.
 
-## Deploy with GitHub Pages
-In the repository, open **Settings → Pages**, choose **Deploy from a branch**, select **master** and **/(root)**, then save. GitHub Pages will publish the site when deployment completes.
+## Important business details to add before launch
+The following details were not supplied and have intentionally not been invented:
+- Official company logo and approved brand assets
+- Registered office / business address
+- Official phone, WhatsApp number, and email
+- Full verified product catalogue and product label details
+- JAWA PLUS original product pack image and approved product description
+
+The JAWA PLUS card currently shows a clearly marked visual concept, not a reproduction of the real packaging. Replace it with an approved product photo before publishing. The only product facts included are its name, category (insecticide), and 500 g pack size. No crop, pest, dosage, efficacy, or safety claim has been assumed.
+
+## Enquiry form
+The form validates the entered details and downloads an enquiry text file in the browser. It does not send data to the company. Connect a secure form backend or official business email endpoint before launch.
+
+## Publish with GitHub Pages
+1. Open repository **Settings → Pages**.
+2. Select **Deploy from a branch**.
+3. Choose branch `master` and folder `/(root)`.
+4. Save and wait for GitHub Pages deployment to finish.
+
+## Pre-launch checklist
+- Verify legal company name and branding.
+- Add only approved contact details and product information.
+- Replace the illustrative product mockup with the original product pack photo.
+- Connect and test the enquiry form endpoint.
+- Review product label and regulatory wording before publication.
